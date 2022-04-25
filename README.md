@@ -1,8 +1,9 @@
-<h1 align="center">Hi <img src="https://github.com/kmriazuddin/kmriazuddin/blob/main/Wave.gif" height="55px" width="55px">, I'm Riaz Uddin</h1>
+<h1 align="center">Hi <img src="https://github.com/kmriazuddin/kmriazuddin/blob/main/Wave.gif" height="55px" width="55px">, I'm K M Riaz Uddin</h1>
 <h3 align="center">
 Web Design | Web Development | Learner
 </h3>
-<img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/kmriazuddin/kmriazuddin/blob/main/Coding-animation.gif?raw=true" width="500" height="320" />
+
 - 🔭 I’m currently working on **Web Development**
 
 - 🌱 I’m currently learning **JS**
