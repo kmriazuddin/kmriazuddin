@@ -2,7 +2,7 @@
 <h3 align="center">
 Web Design | Web Development | Learner
 </h3>
-
+<img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
 - 🔭 I’m currently working on **Web Development**
 
 - 🌱 I’m currently learning **JS**
@@ -16,3 +16,6 @@ Web Design | Web Development | Learner
 - 📫 How to reach me: **mohammadriazuddin3@gmail.com**
 
 - ⚡ Fun fact: **no**
+<h3 align="center">Connect With Me</h3>
+
+
