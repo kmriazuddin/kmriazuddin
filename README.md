@@ -47,5 +47,3 @@ Web Design | Web Development | Learner
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=kmriazuddin&show_icons=true&locale=en" alt="kmriazuddin" width="450" height="270"/></p>
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=kmriazuddin&" alt="kmriazuddin" /></p>
 
-[![Riaz's github activity graph](https://activity-graph.herokuapp.com/graph?username=kmriazuddin&bg_color=ffffff&color=777777&line=ff5200&point=1adbce&area=true&hide_border=true)](https://github.com/kmriazuddin/github-readme-activity-graph)
-
