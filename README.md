@@ -6,7 +6,7 @@ Front-End Developer | Web Development | Learner
 
 - 🔭 I’m currently working on **Web Development**
 
-- 🌱 I’m currently learning **JS**
+- 🌱 I’m currently learning **Fullstack Development**
 
 - 👯 I’m looking to collaborate on **Open Source**
 
