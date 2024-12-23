@@ -40,8 +40,7 @@ Front-End Developer | Web Development | Learner
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white)&nbsp;
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
