@@ -58,7 +58,26 @@ Front-End Developer | Web Development | Learner
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a>
-  <a href="https://skillicons.dev" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nextjs" alt="prisma" width="40" height="40"/> </a>
+
+
+<a href="https://skillicons.dev" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html" width="40" height="40"/> </a>
+<a href="https://skillicons.dev" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css" width="40" height="40"/> </a>
+<a href="https://skillicons.dev" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> </a>
+<a href="https://skillicons.dev" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="js" width="40" height="40"/> </a>
+<a href="https://skillicons.dev" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="ts" width="40" height="40"/> </a>
+<a href="https://skillicons.dev" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a>
+<a href="https://skillicons.dev" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="40" height="40"/> </a>
+<a href="https://skillicons.dev" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=redux" alt="redux" width="40" height="40"/> </a>
+<a href="https://skillicons.dev" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a>
+<a href="https://skillicons.dev" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> </a>
+<a href="https://skillicons.dev" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a>
+<a href="https://skillicons.dev" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgres" width="40" height="40"/> </a>
+<a href="https://skillicons.dev" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=prisma" alt="prisma" width="40" height="40"/> </a>
+<a href="https://skillicons.dev" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=firebase" alt="firebase" width="40" height="40"/> </a>
+<a href="https://skillicons.dev" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=github" alt="github" width="40" height="40"/> </a>
+
+
+  
 <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
