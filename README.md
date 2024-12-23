@@ -51,12 +51,12 @@ Front-End Developer | Web Development | Learner
 ![NextAuth.js](https://img.shields.io/badge/-NextAuth.js-000000?style=flat&logo=next.js&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)&nbsp;
-![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)&nbsp;
 ![npm](https://img.shields.io/badge/-npm-CC3534?style=flat&logo=npm&logoColor=white)&nbsp;
 ![Yarn](https://img.shields.io/badge/-Yarn-2C8EBB?style=flat&logo=yarn&logoColor=white)&nbsp;
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)&nbsp;
 ![Render](https://img.shields.io/badge/-Render-61DAFB?style=flat&logo=render&logoColor=black)&nbsp;
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white)&nbsp;
+![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)&nbsp;
 
 
 <h3 align="left">Languages and Tools:</h3>
